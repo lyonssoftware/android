@@ -10,4 +10,4 @@ The IDE we recommend is the Android Studio by Google, Inc.
 5. Buttons
 6. Files
 7. TableViews
-8. Tab
+8. TabView
