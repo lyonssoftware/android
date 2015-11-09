@@ -9,6 +9,7 @@ The IDE we recommend is the Android Studio by Google, Inc.
 4. Variables
 5. Buttons
 6. Files
-7. TableViews
-8. TabView
-9. Text
+7. Table
+8. TableViews
+9. TabView
+10. Strings
