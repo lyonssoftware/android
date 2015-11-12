@@ -12,4 +12,4 @@ The IDE we recommend is the Android Studio by Google, Inc.
 7. Table
 8. TableViews
 9. TabView
-10. Strings
+10. ContainerView
