@@ -13,3 +13,4 @@ The IDE we recommend is the Android Studio by Google, Inc.
 8. TableViews
 9. TabView
 10. ContainerView
+11. CollectionView
