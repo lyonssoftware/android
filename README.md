@@ -13,6 +13,7 @@ The IDE we recommend is the Android Studio by Google, Inc.
 8. Table
 9. TableViews
 10. TabView
+11. View
 
 
 
