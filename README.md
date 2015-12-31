@@ -11,7 +11,6 @@ The IDE we recommend is the Android Studio by Google, Inc.
 6. Files
 7. Widgets
 8. Table
-9. TableViews
 
 
 
