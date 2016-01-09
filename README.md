@@ -9,7 +9,6 @@ The IDE we recommend is the Android Studio by Google, Inc.
 4. Variables
 5. Buttons
 6. Files
-7. Widgets
 
 
 
