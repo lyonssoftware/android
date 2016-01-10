@@ -8,7 +8,6 @@ The IDE we recommend is the Android Studio by Google, Inc.
 3. Strings
 4. Variables
 5. Buttons
-6. Files
 
 
 
